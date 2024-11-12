@@ -11,4 +11,4 @@ Each notebook demonstrates the use of different machine learning techniques and 
 
 For a more in-depth understanding of these projects, please refer to the detailed blog post linked below:
 
-[Text Classification with LLMs](https://instinctive-smoke-d5b.notion.site/Text-Classification-with-LLMs-13b9448c0a1280c89610f8aad7f1a052)
+[Text Classification with LLMs](https://thevitorialima.notion.site/Text-Classification-with-LLMs-13b9448c0a1280c89610f8aad7f1a052)
